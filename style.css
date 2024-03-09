@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+}
+canvas{
+    box-shadow: 2px 2px 28px rgb(0, 0, 0);
+    border-radius: 8px;
+}
